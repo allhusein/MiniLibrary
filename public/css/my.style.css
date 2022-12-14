@@ -1,0 +1,13 @@
+.my-card {
+  transition: transform 0.2s ease;
+}
+.my-card:hover {
+  transform: scale(1.05);
+}
+
+.my-text-truncate {
+    -webkit-line-clamp: 2;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
