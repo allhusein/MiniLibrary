@@ -16,3 +16,4 @@
 <!-- Page Icon -->
 
 <link rel="shortcut icon" href="{{ asset("media/logos/icon.ico") }}">
+<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
