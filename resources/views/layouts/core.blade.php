@@ -7,7 +7,7 @@
     @yield("custom_css")
 
     <title>@yield("title") | README</title>
-
+    <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
 </head>
 <body id="kt_body" class="aside-enabled">
 
